@@ -35,7 +35,6 @@ class Queue:
       current = current.next
     for element in status_of_queue:
       print(element, end="=>")
-    print(None)
 
 
 # Do not change the following code
